@@ -1,0 +1,5 @@
+# Files
+.env
+
+# Directories
+__pycache__/
